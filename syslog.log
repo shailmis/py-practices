@@ -1,0 +1,184 @@
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.405347] xor: automatically using best checksumming function   avx
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.405351] Key type asymmetric registered
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.405352] Asymmetric key parser 'x509' registered
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.405367] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 250)
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.406116] hv_vmbus: registering driver hv_pci
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.406270] ACPI: AC Adapter [AC1] (on-line)
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.406750] Serial: 8250/16550 driver, 4 ports, IRQ sharing disabled
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.407288] Non-volatile memory driver v1.3
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.407296] battery: ACPI: Battery Slot [BAT1] (battery present)
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.410628] brd: module loaded
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.411568] loop: module loaded
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.411632] hv_vmbus: registering driver hv_storvsc
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412120] wireguard: WireGuard 1.0.0 loaded. See www.wireguard.com for information.
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412121] wireguard: Copyright (C) 2015-2019 Jason A. Donenfeld <Jason@zx2c4.com>. All Rights Reserved.
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412137] tun: Universal TUN/TAP device driver, 1.6
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412241] PPP generic driver version 2.4.2
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412423] PPP BSD Compression module registered
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412425] PPP Deflate Compression module registered
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412432] PPP MPPE Compression module registered
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412433] NET: Registered protocol family 24
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412440] hv_vmbus: registering driver hv_netvsc
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412548] VFIO - User Level meta-driver version: 0.3
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412978] usbcore: registered new interface driver cdc_acm
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412979] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.412993] usbcore: registered new interface driver ftdi_sio
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.413020] usbserial: USB Serial support registered for FTDI USB Serial Device
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413187] vhci_hcd vhci_hcd.0: USB/IP Virtual Host Controller
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413190] vhci_hcd vhci_hcd.0: new USB bus registered, assigned bus number 1
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413196] vhci_hcd: created sysfs vhci_hcd.0
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413229] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.10
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413231] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413232] usb usb1: Product: USB/IP Virtual Host Controller
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413234] usb usb1: Manufacturer: Linux 5.10.60.1-microsoft-standard-WSL2 vhci_hcd
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413235] usb usb1: SerialNumber: vhci_hcd.0
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413367] hub 1-0:1.0: USB hub found
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413372] hub 1-0:1.0: 8 ports detected
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413423] scsi host0: storvsc_host_t
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413475] vhci_hcd vhci_hcd.0: USB/IP Virtual Host Controller
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413477] vhci_hcd vhci_hcd.0: new USB bus registered, assigned bus number 2
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413489] usb usb2: We don't know the algorithms for LPM for this host, disabling LPM.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413553] usb usb2: New USB device found, idVendor=1d6b, idProduct=0003, bcdDevice= 5.10
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413555] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.413556] usb usb2: Product: USB/IP Virtual Host Controller
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.413557] usb usb2: Manufacturer: Linux 5.10.60.1-microsoft-standard-WSL2 vhci_hcd
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.413558] usb usb2: SerialNumber: vhci_hcd.0
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.413785] hub 2-0:1.0: USB hub found
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.413788] hub 2-0:1.0: 8 ports detected
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.414148] hv_vmbus: registering driver hyperv_keyboard
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.414344] rtc_cmos 00:00: RTC can wake from S4
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.416543] rtc_cmos 00:00: registered as rtc0
+Mar  5 17:35:03 SHAILMIS-IN kernel: [    0.417476] rtc_cmos 00:00: setting system clock to 2022-03-03T11:42:46 UTC (1646307766)
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.417496] rtc_cmos 00:00: alarms up to one month, 114 bytes nvram
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.417809] device-mapper: ioctl: 4.43.0-ioctl (2020-10-01) initialised: dm-devel@redhat.com
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.417986] device-mapper: raid: Loading target version 1.15.1
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418014] usbcore: registered new interface driver usbhid
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418015] usbhid: USB HID core driver
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418074] hv_utils: Registering HyperV Utility Driver
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418075] hv_vmbus: registering driver hv_utils
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418102] hv_vmbus: registering driver hv_balloon
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418108] hv_utils: cannot register PTP clock: 0
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418137] hv_vmbus: registering driver dxgkrnl
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418143] (NULL device *): dxgk: dxg_drv_init  Version: 2108
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418184] drop_monitor: Initializing network drop monitor service
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418200] Mirror/redirect action on
+Mar  7 17:35:03 SHAILMIS-IN kernel: [    0.418438] hv_utils: TimeSync IC version 4.0
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.418518] hv_balloon: Using Dynamic Memory protocol version 2.0
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419605] IPVS: Registered protocols (TCP, UDP)
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419625] IPVS: Connection hash table configured (size=4096, memory=64Kbytes)
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419742] IPVS: ipvs loaded.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419743] IPVS: [rr] scheduler registered.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419744] IPVS: [wrr] scheduler registered.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419745] IPVS: [sh] scheduler registered.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419768] Free page reporting enabled
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419769] hv_balloon: Cold memory discard hint enabled
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.419827] ipip: IPv4 and MPLS over IPv4 tunneling driver
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.421136] ipt_CLUSTERIP: ClusterIP Version 0.8 loaded successfully
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.421556] Initializing XFRM netlink socket
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.421636] NET: Registered protocol family 10
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.422003] Segment Routing with IPv6
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423058] sit: IPv6, IPv4 and MPLS over IPv4 tunneling driver
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423179] NET: Registered protocol family 17
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423203] Bridge firewalling registered
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423213] 8021q: 802.1Q VLAN Support v1.8
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423244] sctp: Hash tables configured (bind 256/256)
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423313] 9pnet: Installing 9P2000 support
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423328] Key type dns_resolver registered
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423335] Key type ceph registered
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423485] libceph: loaded (mon/osd proto 15/24)
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423565] NET: Registered protocol family 40
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423566] hv_vmbus: registering driver hv_sock
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423613] IPI shorthand broadcast: enabled
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423727] registered taskstats version 1
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.423736] Loading compiled-in X.509 certificates
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.424727] Btrfs loaded, crc32c=crc32c-generic
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.424989] Unstable clock detected, switching default tracing clock to "global"
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.424989] If you want to keep using the local clock, then add:
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.424989]   "trace_clock=local"
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.424989] on the kernel command line
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.425976] Freeing unused kernel image (initmem) memory: 1564K
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.522667] Write protecting the kernel read-only data: 22528k
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523418] Freeing unused kernel image (text/rodata gap) memory: 2024K
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523677] Freeing unused kernel image (rodata/data gap) memory: 448K
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523729] Run /init as init process
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523730]   with arguments:
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523731]     /init
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523731]   with environment:
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523732]     HOME=/
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    0.523732]     TERM=linux
+Mar  3 17:35:03 KAMALINI_IN kernel: [    1.747985] scsi 0:0:0:0: Direct-Access     Msft     Virtual Disk     1.0  PQ: 0 ANSI: 5
+Mar  3 17:35:03 KAMALINI_IN kernel: [    1.748437] sd 0:0:0:0: Attached scsi generic sg0 type 0
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    1.749432] sd 0:0:0:0: [sda] 536870912 512-byte logical blocks: (275 GB/256 GiB)Mar  3 17:35:03 SHAILMIS-IN kernel: [    1.749435] sd 0:0:0:0: [sda] 4096-byte physical blocks
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    1.749549] sd 0:0:0:0: [sda] Write Protect is off
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    1.749552] sd 0:0:0:0: [sda] Mode Sense: 0f 00 00 00
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    1.749785] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    1.751426] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    2.058393] EXT4-fs (sda): mounted filesystem with ordered data mode. Opts: discard,errors=remount-ro,data=ordered
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    2.192955] sd 0:0:0:0: [sda] Attached SCSI disk
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.142671] Adding 4194304k swap on /swap/file.  Priority:-2 extents:3 across:4210688k
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.862972] scsi 0:0:0:1: Direct-Access     Msft     Virtual Disk     1.0  PQ: 0 ANSI: 5
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.863725] sd 0:0:0:1: Attached scsi generic sg1 type 0
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.864773] sd 0:0:0:1: [sdb] 536870912 512-byte logical blocks: (275 GB/256 GiB)Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.864774] sd 0:0:0:1: [sdb] 4096-byte physical blocks
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.864927] sd 0:0:0:1: [sdb] Write Protect is off
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.864928] sd 0:0:0:1: [sdb] Mode Sense: 0f 00 00 00
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.865208] sd 0:0:0:1: [sdb] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.868422] sd 0:0:0:1: [sdb] Attached SCSI disk
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.904259] EXT4-fs (sdb): recovery complete
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.905331] EXT4-fs (sdb): mounted filesystem with ordered data mode. Opts: discard,errors=remount-ro,data=ordered
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921000] FS-Cache: Duplicate cookie detected
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921002] FS-Cache: O-cookie c=000000009ad2bdf2 [p=00000000e3eca106 fl=222 nc=0 na=1]
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921014] FS-Cache: O-cookie d=000000000a0dde75 n=00000000e5bd6844
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921015] FS-Cache: O-key=[10] '34323934393337363736'
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921019] FS-Cache: N-cookie c=00000000567e841b [p=00000000e3eca106 fl=2 nc=0 na=1]
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921020] FS-Cache: N-cookie d=000000000a0dde75 n=00000000b7851448
+Mar  3 17:35:03 SHAILMIS-IN kernel: [    3.921021] FS-Cache: N-key=[10] '34323934393337363736'
+Mar  3 17:35:03 SHAILMIS-IN kernel: [   49.276567] hv_balloon: Max. dynamic memory size: 13010 MB
+Mar  3 17:35:03 SHAILMIS-IN kernel: [   62.754307] WSL2: Performing memory compaction.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [  123.761295] WSL2: Performing memory compaction.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [  184.770270] WSL2: Performing memory compaction.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [  245.779249] WSL2: Performing memory compaction.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [  306.791228] WSL2: Performing memory compaction.
+Mar  3 17:35:03 KAMALINI_IN kernel: [  967.800557] WSL2: Performing memory compaction.
+Mar  3 17:35:03 SHAILMIS-IN kernel: [ 1028.807372] WSL2: Performing memory compaction.
+Mar  3 17:35:04 SHAILMIS-IN rsyslogd: rsyslogd's groupid changed to 106
+Mar  3 17:35:04 SHAILMIS-IN rsyslogd: rsyslogd's userid changed to 102
+Mar  3 17:35:04 SHAILMIS-IN rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="197" x-info="http://www.rsyslog.com"] start
+Mar  3 17:35:55 SHAILMIS-IN kernel: [ 1389.815480] WSL2: Performing memory compaction.
+Mar  3 17:36:56 SHAILMIS-IN kernel: [ 1450.822756] WSL2: Performing memory compaction.
+Mar  3 17:37:17 KAMALINI_IN kernel: [ 1471.086093] TCP: eth0: Driver has suspect GRO implementation, TCP performance may be compromised.
+Mar  3 17:37:57 SHAILMIS-IN kernel: [ 1511.829216] WSL2: Performing memory compaction.
+Mar  3 17:40:58 SHAILMIS-IN kernel: [ 1692.841133] WSL2: Performing memory compaction.
+Mar  3 18:34:59 SHAILMIS-IN kernel: [ 4933.869801] WSL2: Performing memory compaction.
+Mar  3 19:21:00 SHAILMIS-IN kernel: [ 7694.892887] WSL2: Performing memory compaction.
+Mar  3 20:01:01 SHAILMIS-IN kernel: [10095.909054] WSL2: Performing memory compaction.
+Mar  3 20:33:02 SHAILMIS-IN kernel: [12016.930744] WSL2: Performing memory compaction.
+Mar  3 20:56:03 SHAILMIS-IN kernel: [13397.959388] WSL2: Performing memory compaction.
+Mar  3 21:20:22 SHAILMIS-IN kernel: [14856.893077] hv_utils: TimeSync IC version 4.0
+Mar  3 21:39:28 SHAILMIS-IN kernel: [15618.986073] WSL2: Performing memory compaction.
+Mar  3 22:07:23 SHAILMIS-IN kernel: [17294.878062] hv_utils: TimeSync IC version 4.0
+Mar  4 09:22:53 KAMALINI_IN kernel: [19040.014761] WSL2: Performing memory compaction.
+Mar  4 10:13:54 KAMALINI_IN kernel: [22101.043153] WSL2: Performing memory compaction.
+Mar  4 10:50:55 KAMALINI_IN kernel: [24322.059828] WSL2: Performing memory compaction.
+Mar  4 11:50:56 SHAILMIS-IN kernel: [27923.089554] WSL2: Performing memory compaction.
+Mar  4 12:16:58 SHAILMIS-IN kernel: [29484.117012] WSL2: Performing memory compaction.
+Mar  4 12:34:59 SHAILMIS-IN kernel: [30565.148042] WSL2: Performing memory compaction.
+Mar  4 13:02:00 SHAILMIS-IN kernel: [32186.161821] WSL2: Performing memory compaction.
+Mar  4 13:29:01 SHAILMIS-IN kernel: [33807.177580] WSL2: Performing memory compaction.
+Mar  4 13:53:02 SHAILMIS-IN kernel: [35248.202915] WSL2: Performing memory compaction.
+Mar  4 14:13:03 SHAILMIS-IN kernel: [36449.237831] WSL2: Performing memory compaction.
+Mar  4 14:25:04 SHAILMIS-IN kernel: [37170.260586] WSL2: Performing memory compaction.
+Mar  4 14:38:05 SHAILMIS-IN kernel: [37951.282032] WSL2: Performing memory compaction.
+Mar  4 14:46:01 SHAILMIS-IN kernel: [38427.182670] hv_utils: TimeSync IC version 4.0
+Mar  3 17:35:55 SHAILMIS-IN kernel: [ 1389.815480] WSL2: Performing memory compaction.
+Mar  3 17:36:56 SHAILMIS-IN kernel: [ 1450.822756] WSL2: Performing memory compaction.
+Mar  3 17:37:17 KAMALINI_IN kernel: [ 1471.086093] TCP: eth0: Driver has suspect GRO implementation, TCP performance may be compromised.
+Mar  3 17:37:57 SHAILMIS-IN kernel: [ 1511.829216] WSL2: Performing memory compaction.
+Mar  3 17:40:58 SHAILMIS-IN kernel: [ 1692.841133] WSL2: Performing memory compaction.
+Mar  3 18:34:59 SHAILMIS-IN kernel: [ 4933.869801] WSL2: Performing memory compaction.
+Mar  3 19:21:00 SHAILMIS-IN kernel: [ 7694.892887] WSL2: Performing memory compaction.
+Mar  3 20:01:01 SHAILMIS-IN kernel: [10095.909054] WSL2: Performing memory compaction.
+Mar  3 20:33:02 SHAILMIS-IN kernel: [12016.930744] WSL2: Performing memory compaction.
+Mar  3 20:56:03 SHAILMIS-IN kernel: [13397.959388] WSL2: Performing memory compaction.
+Mar  3 21:20:22 SHAILMIS-IN kernel: [14856.893077] hv_utils: TimeSync IC version 4.0
+Mar  3 21:39:28 SHAILMIS-IN kernel: [15618.986073] WSL2: Performing memory compaction.
+Mar  3 22:07:23 SHAILMIS-IN kernel: [17294.878062] hv_utils: TimeSync IC version 4.0
